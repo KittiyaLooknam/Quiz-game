@@ -37,3 +37,4 @@ https://fonts.google.com/
 https://www.w3schools.com/bootstrap/bootstrap_get_started.asp
 https://stackoverflow.com/
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+https://jqueryui.com/sortable/#placeholder
