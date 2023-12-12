@@ -26,7 +26,7 @@ link to repository  http://git@github.com:KittiyaLooknam/Quiz-game.git
 
 
 # Usage
-The user can access by contacting the links deployed for instance the application: add  ######################################
+The user can access by contacting the links deployed for instance the application: https://github.com/KittiyaLooknam/Quiz-game.git
 
 # Credits
 Thank you to Louis Delia and Andrew Goldberg for adivice. 
