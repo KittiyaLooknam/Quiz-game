@@ -1,0 +1,21 @@
+
+/* Class selectors */
+.container-sm {
+    background-color: #fbecec;
+}
+
+* {
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Wendy One', sans-serif;
+    font-family: 'Whisper', cursive; ;
+}
+/* ID selectors */
+
+#quiz-container {
+    height: 600px;
+}
+
+#nav-left {
+    margin: 0px;
+}
+
