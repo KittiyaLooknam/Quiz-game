@@ -14,6 +14,8 @@ The game have countdown time and tracks the user time / score. After the end gam
 
 ![image](https://github.com/KittiyaLooknam/Quiz-game/assets/149645563/ba44aed5-e066-4912-96e6-8980dfd7df24)
 
+![image](https://github.com/KittiyaLooknam/Quiz-game/assets/149645563/cad1b7fb-835a-427a-a93a-0e8220e43b19)
+
 
 # Installation
 Upload index.html,game.html, style.css , script.js and scores.js
