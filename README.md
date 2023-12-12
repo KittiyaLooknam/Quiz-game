@@ -22,7 +22,7 @@ Upload index.html,game.html, style.css , script.js and scores.js
 
 The application shown below was deployed using GitHub Pages. The repository can be replicated via fork, clone, and redeployment with GitHub Pages.
 
-link to repository  (https://github.com/KittiyaLooknam/Quiz-game.git)
+link to repository  http://git@github.com:KittiyaLooknam/Quiz-game.git
 
 
 # Usage
