@@ -1,4 +1,4 @@
-Quiz Game 
+# Quiz Game 
 
 # Description
 This is appiction makeing quize game. It was created using HTML, CSS, javaScript, Bootstrap and the font Wendy One icon pack.
